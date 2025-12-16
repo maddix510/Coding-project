@@ -1,0 +1,1 @@
+Version 1: Added mood tracker, it currently asks name, age, and mood, with three different responces, also ask day rating from 1-10, currently also has three diferent responces, only responds to answers from 1-10.
